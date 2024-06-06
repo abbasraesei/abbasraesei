@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I am Abbas Raesei, a Master's graduate in Genetics from Shahid Chamran University of Ahvaz. For the past 4 years, I have been working in the pathobiology and genetics laboratory at Saheb Al-Zaman Hospital in Bandar Abbas. My professional journey has been focused on the intersection of cancer research and drug resistance, leveraging both laboratory and bioinformatics methods.
+Hello! I am Abbas Raesei, a MSc in molecular Genetics from Shahid Chamran University of Ahvaz. For the past 4 years, I have been working in the pathobiology and genetics laboratory at Saheb Al-Zaman Hospital in Bandar Abbas. My professional journey has been focused on the intersection of cancer research and drug resistance, leveraging both laboratory and bioinformatics methods.
 
 ## Research Interests
 
